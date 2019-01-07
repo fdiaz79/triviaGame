@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url(../images/questionmark.jpg);
+    /* font-weight: bolder;
+    color: #382929; */
+}
+
+.jumbotron {
+    margin: 2%;
+    padding: 2%;
+}
+
+#title {
+    margin: 2%;
+    text-align: center;
+    font-family: 'Audiowide', cursive;
+}
+
+.btn-outline-secondary {
+    font-size: small;
+}
+
+#start-trivia {
+    margin: 2%;
+}
