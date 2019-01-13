@@ -20,6 +20,11 @@ body {
     font-size: small;
 }
 
-#start-trivia {
+#start-trivia, #end-trivia, #again-trivia, #cont-button {
     margin: 2%;
+}
+
+#gif-img {
+    margin: auto;
+    padding: 2%;
 }
