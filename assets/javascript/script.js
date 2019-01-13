@@ -422,7 +422,6 @@ $(document).ready(function () {
             startTrivia.click(function() {
                 loadQuestions();
                 
-                // startQuestions();
             });
             
         });
@@ -431,9 +430,9 @@ $(document).ready(function () {
     function loadQuestions () {
         
             var quest = propArray[k];
-            console.log("proparry: " + propArray);
-            console.log("quest "+quest);
-            console.log("chosenObject[quest]: "+chosenObject[quest]);
+            // console.log("proparry: " + propArray);
+            // console.log("quest "+quest);
+            // console.log("chosenObject[quest]: "+chosenObject[quest]);
 
             shuffleAnswers(chosenObject[quest]);
 
