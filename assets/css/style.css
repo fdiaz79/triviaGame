@@ -10,6 +10,13 @@ body {
     padding: 2%;
 }
 
+#time-display {
+    font-family: 'Share Tech Mono', monospace;
+    font-weight: bolder;
+    font-size: 26px;
+    color: #466bc6;
+}
+
 #title {
     margin: 2%;
     text-align: center;
